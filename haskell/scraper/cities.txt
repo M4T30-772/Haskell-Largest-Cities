@@ -1,0 +1,84 @@
+City {name = "City[a]", country = "Not available", population = "Not available", area = "Not available"}
+City {name = "Definition", country = "Not available", population = "Not available", area = "Not available"}
+City {name = "", country = "Not available", population = "Not available", area = "Not available"}
+City {name = "Tokyo", country = "Japan", population = "37,468,000", area = "Metropolis prefecture"}
+City {name = "Delhi", country = "India", population = "28,514,000", area = "Municipal corporation"}
+City {name = "Shanghai", country = "China", population = "25,582,000", area = "Municipality"}
+City {name = "S\227o Paulo", country = "Brazil", population = "21,650,000", area = "Municipality"}
+City {name = "Mexico City", country = "Mexico", population = "21,581,000", area = "City-state"}
+City {name = "Cairo", country = "Egypt", population = "20,076,000", area = "Urban governorate"}
+City {name = "Mumbai", country = "India", population = "19,980,000", area = "Municipal corporation"}
+City {name = "Beijing", country = "China", population = "19,618,000", area = "Municipality"}
+City {name = "Dhaka", country = "Bangladesh", population = "19,578,000", area = "Capital city"}
+City {name = "Osaka", country = "Japan", population = "19,281,000", area = "Designated city"}
+City {name = "New York City", country = "United States", population = "18,819,000", area = "City"}
+City {name = "Karachi", country = "Pakistan", population = "15,400,000", area = "Metropolitan city"}
+City {name = "Buenos Aires", country = "Argentina", population = "14,967,000", area = "Autonomous city"}
+City {name = "Chongqing", country = "China", population = "14,838,000", area = "Municipality"}
+City {name = "Istanbul", country = "Turkey", population = "14,751,000", area = "Metropolitan municipality"}
+City {name = "Kolkata", country = "India", population = "15,333,000", area = "Municipal corporation"}
+City {name = "Manila", country = "Philippines", population = "13,482,000", area = "Capital city"}
+City {name = "Lagos", country = "Nigeria", population = "13,463,000", area = "Metropolitan city"}
+City {name = "Rio de Janeiro", country = "Brazil", population = "13,293,000", area = "Municipality"}
+City {name = "Tianjin", country = "China", population = "13,215,000", area = "Municipality"}
+City {name = "Kinshasa", country = "DR Congo", population = "13,171,000", area = "City-province"}
+City {name = "Guangzhou", country = "China", population = "12,638,000", area = "City (sub-provincial)"}
+City {name = "Los Angeles", country = "United States", population = "12,458,000", area = "City"}
+City {name = "Moscow", country = "Russia", population = "12,410,000", area = "Federal city"}
+City {name = "Shenzhen", country = "China", population = "11,908,000", area = "City (sub-provincial)"}
+City {name = "Lahore", country = "Pakistan", population = "13,004,135", area = "Metropolitan city"}
+City {name = "Bangalore", country = "India", population = "11,440,000", area = "Municipal corporation"}
+City {name = "Paris", country = "France", population = "10,901,000", area = "Commune"}
+City {name = "Bogot\225", country = "Colombia", population = "10,574,000", area = "Capital District"}
+City {name = "Jakarta", country = "Indonesia", population = "10,517,000", area = "Special capital region"}
+City {name = "Chennai", country = "India", population = "10,456,000", area = "Municipal corporation"}
+City {name = "Lima", country = "Peru", population = "10,391,000", area = "Metropolitan municipality"}
+City {name = "Bangkok", country = "Thailand", population = "10,156,000", area = "Special administrative area"}
+City {name = "Seoul", country = "South Korea", population = "9,963,000", area = "Special city"}
+City {name = "Nagoya", country = "Japan", population = "9,507,000", area = "Designated city"}
+City {name = "Hyderabad", country = "India", population = "9,482,000", area = "Municipal corporation"}
+City {name = "London", country = "United Kingdom", population = "9,046,000", area = "Capital city"}
+City {name = "Tehran", country = "Iran", population = "8,896,000", area = "Capital city"}
+City {name = "Chicago", country = "United States", population = "8,864,000", area = "City"}
+City {name = "Chengdu", country = "China", population = "8,813,000", area = "City (sub-provincial)"}
+City {name = "Nanjing", country = "China", population = "8,245,000", area = "City (sub-provincial)"}
+City {name = "Wuhan", country = "China", population = "8,176,000", area = "City (sub-provincial)"}
+City {name = "Ho Chi Minh City", country = "Vietnam", population = "8,145,000", area = "Municipality"}
+City {name = "Luanda", country = "Angola", population = "7,774,000", area = "Municipality"}
+City {name = "Ahmedabad", country = "India", population = "7,681,000", area = "Municipal corporation"}
+City {name = "Kuala Lumpur", country = "Malaysia", population = "7,564,000", area = "City"}
+City {name = "Xi'an", country = "China", population = "7,444,000", area = "City (sub-provincial)"}
+City {name = "Hong Kong", country = "China", population = "7,429,000", area = "Special administrative region"}
+City {name = "Dongguan", country = "China", population = "7,360,000", area = "Prefecture-level city"}
+City {name = "Hangzhou", country = "China", population = "7,236,000", area = "City (sub-provincial)"}
+City {name = "Foshan", country = "China", population = "7,236,000", area = "Prefecture-level city"}
+City {name = "Shenyang", country = "China", population = "6,921,000", area = "City (sub-provincial)"}
+City {name = "Riyadh", country = "Saudi Arabia", population = "6,907,000", area = "Municipality"}
+City {name = "Baghdad", country = "Iraq", population = "6,812,000", area = "Urban governorate"}
+City {name = "Santiago", country = "Chile", population = "6,680,000", area = "City (commune)"}
+City {name = "Surat", country = "India", population = "6,564,000", area = "Municipal corporation"}
+City {name = "Madrid", country = "Spain", population = "6,497,000", area = "Municipality"}
+City {name = "Suzhou", country = "China", population = "6,339,000", area = "Prefecture-level city"}
+City {name = "Pune", country = "India", population = "6,276,000", area = "Municipal corporation"}
+City {name = "Harbin", country = "China", population = "6,115,000", area = "City (sub-provincial)"}
+City {name = "Houston", country = "United States", population = "6,115,000", area = "City"}
+City {name = "Dallas", country = "United States", population = "6,099,000", area = "City"}
+City {name = "Toronto", country = "Canada", population = "6,082,000", area = "City"}
+City {name = "Dar es Salaam", country = "Tanzania", population = "6,048,000", area = "City"}
+City {name = "Miami", country = "United States", population = "6,036,000", area = "City"}
+City {name = "Belo Horizonte", country = "Brazil", population = "5,972,000", area = "City"}
+City {name = "Singapore", country = "Singapore", population = "5,792,000", area = "Country"}
+City {name = "Philadelphia", country = "United States", population = "5,695,000", area = "Consolidated city-county"}
+City {name = "Atlanta", country = "United States", population = "5,572,000", area = "City"}
+City {name = "Fukuoka", country = "Japan", population = "5,551,000", area = "Designated city"}
+City {name = "Khartoum", country = "Sudan", population = "5,534,000", area = "\8212"}
+City {name = "Barcelona", country = "Spain", population = "5,494,000", area = "Municipality"}
+City {name = "Johannesburg", country = "South Africa", population = "5,486,000", area = "Metropolitan municipality"}
+City {name = "Saint Petersburg", country = "Russia", population = "5,383,000", area = "Federal city"}
+City {name = "Qingdao", country = "China", population = "5,381,000", area = "City (sub-provincial)"}
+City {name = "Dalian", country = "China", population = "5,300,000", area = "City (sub-provincial)"}
+City {name = "Washington", country = "United States", population = "5,207,000", area = "Federal district"}
+City {name = "Yangon", country = "Myanmar", population = "5,157,000", area = "City"}
+City {name = "Alexandria", country = "Egypt", population = "5,086,000", area = "Urban governorate"}
+City {name = "Jinan", country = "China", population = "5,052,000", area = "City (sub-provincial)"}
+City {name = "Guadalajara", country = "Mexico", population = "5,023,000", area = "Municipality"}
